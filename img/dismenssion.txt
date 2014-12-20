@@ -1,0 +1,8 @@
+- player: 1000px
+- header: 40px
+- track: 200px
+- track item: 40px
+- time line: 5px
+- volumn: 2px
+- action: 100px
+- icon action: 40px | 40px

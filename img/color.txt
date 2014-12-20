@@ -1,0 +1,9 @@
+- bg: #313740
+- bg player: #353940
+- header: #d24a43
+- title nav: #ae4947
+- progress player: #d24a43
+- seek player: #121417
+- action icon: #d24a43
+- progress volumn: #d2d4d4
+- seek volumn: #565b5e
